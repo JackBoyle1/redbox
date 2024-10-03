@@ -11,5 +11,4 @@
 ## Using the App
 Once the backend and frontend are running using the instructions above, visit [http://localhost:3000](http://localhost:3000).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The page will reload if you make edits.
